@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**megatunger/megatunger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=megatunger&count_private=true&include_all_commits=true&bg_color=30,56CCF2,2F80ED&title_color=fff&text_color=fff" />
+</span>
 
-Here are some ideas to get you started:
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megatunger&layout=compact" />
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=megatunger&layout=compact" />
+</span>
