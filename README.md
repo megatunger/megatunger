@@ -5,7 +5,7 @@
 </a>
 
 ------
-### 📊 My weekly development breakdown
+### 📊 My monthly development breakdown
 
 <!--START_SECTION:waka-->
 
