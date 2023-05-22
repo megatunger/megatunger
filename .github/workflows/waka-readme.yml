@@ -12,5 +12,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          LANG_COUNT: 10
           TIME_RANGE: last_30_days
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
