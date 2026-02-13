@@ -5,6 +5,16 @@
 
 <!--START_SECTION:wakaweek-->
 
+```txt
+Total Time: 44 hrs 20 mins
+
+TypeScript       36 hrs 33 mins  ████████████████████▒░░░░   81.59 %
+Java             1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Rust             1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+YAML             1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+```
+
 <!--END_SECTION:wakaweek-->
 
 ------
