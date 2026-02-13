@@ -20,7 +20,7 @@ JSON             54 mins         ▓░░░░░░░░░░░░░░�
 ------
 
 ------
-### 📊 Last Year
+### 📊 Lifetime stats (2019-now)
 
 <!--START_SECTION:waka-->
 
