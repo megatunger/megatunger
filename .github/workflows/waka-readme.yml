@@ -12,8 +12,21 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          LANG_COUNT: 10
-          TIME_RANGE: all_time # optional
+          LANG_COUNT: 8
+          TIME_RANGE: last_year # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
+  update-readme-week:
+    name: WakaReadme DevMetrics Weekly
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          LANG_COUNT: 5
+          SECTION_NAME: waka-week # optional
+          TIME_RANGE: last_30_days # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
