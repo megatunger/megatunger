@@ -10,7 +10,7 @@
 ------
 
 ------
-### 📊 Stats
+### 📊 Last Year
 
 <!--START_SECTION:waka-->
 
