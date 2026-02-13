@@ -3,9 +3,9 @@
 ### 📊 My monthly development breakdown
 
 
-<!--START_SECTION:week-->
+<!--START_SECTION:waka-week-->
 
-<!--END_SECTION:week-->
+<!--END_SECTION:waka-week-->
 
 ------
 
