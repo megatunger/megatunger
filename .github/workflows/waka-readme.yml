@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: megatunger/waka-readme@master
         with:
-          LANG_COUNT: 8
+          LANG_COUNT: 15
+          SECTION_NAME: waka # optional
           TIME_RANGE: all_time # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
@@ -25,7 +26,7 @@ jobs:
       - uses: megatunger/waka-readme@master
         with:
           LANG_COUNT: 5
-          SECTION_NAME: waka-week # optional
+          SECTION_NAME: wakaweek # optional
           TIME_RANGE: last_30_days # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
