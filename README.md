@@ -6,13 +6,13 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Total Time: 51 hrs 49 mins
+Total Time: 113 hrs 3 mins
 
-TypeScript        43 hrs 12 mins  ████████████████▓░░░░░░░░   66.19 %
-Other             13 hrs 26 mins  █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-Java              3 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JSON              57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-YAML              52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Other             84 hrs 12 mins  ██████████▓░░░░░░░░░░░░░░   42.68 %
+TypeScript        48 hrs 19 mins  ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+Image (svg)       11 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Python            9 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Rust              7 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:wakaweek-->
