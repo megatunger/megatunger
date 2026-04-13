@@ -6,13 +6,13 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Total Time: 126 hrs 7 mins
+Total Time: 122 hrs 46 mins
 
-Other                      91 hrs 38 mins  ██████████▓░░░░░░░░░░░░░░   42.08 %
-TypeScript                 51 hrs 39 mins  ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-Python                     17 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Image (svg)                13 hrs 8 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-TeX                        7 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Other                      83 hrs 15 mins  ██████████░░░░░░░░░░░░░░░   40.41 %
+TypeScript                 42 hrs 34 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Python                     25 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+TeX                        10 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Image (svg)                8 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:wakaweek-->
