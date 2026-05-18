@@ -6,13 +6,13 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-Total Time: 117 hrs 59 mins
+Total Time: 131 hrs 5 mins
 
-Other                      55 hrs 24 mins  ████████░░░░░░░░░░░░░░░░░   31.95 %
-Python                     38 hrs 3 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-TypeScript                 24 hrs 51 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-TeX                        16 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-JSON                       9 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Other                      59 hrs 36 mins  ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+Python                     43 hrs 50 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
+TeX                        16 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+TypeScript                 15 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+YAML                       11 hrs 1 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:wakaweek-->
